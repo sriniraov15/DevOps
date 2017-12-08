@@ -1,5 +1,2 @@
-This is feature one contributed by Srini from Git Client
+Feauture 4
 
-This is my second change in this file.
-
-I am making change in remote repo.
