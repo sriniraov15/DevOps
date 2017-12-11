@@ -13,3 +13,5 @@ Making change in Test1 file in Local
 Adding stash1 feature
 
 Creating conflict in stash
+
+Checking stash if there is any auto conflict.
