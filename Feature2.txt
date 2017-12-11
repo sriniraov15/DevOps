@@ -3,3 +3,5 @@ Local change
 Remote
 
 Feature 3
+
+Adding feature 1
