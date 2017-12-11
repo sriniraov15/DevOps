@@ -7,3 +7,5 @@ Feature 3
 Adding feature 1
 
 Hot Fix after stash1
+
+Adding stash2
