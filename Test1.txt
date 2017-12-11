@@ -11,3 +11,5 @@ Making change in Develop branch first time.
 Making change in Test1 file in Local
 
 Adding stash1 feature
+
+Creating conflict in stash
